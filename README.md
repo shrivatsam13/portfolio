@@ -2,21 +2,21 @@
 Passionate software engineer eagerly looking for opportunities to apply my skills in a dynamic team environment and make a meaningful impact while contributing to innovative projects.
 
 ## Technical Skills
-Java, Python, SQL, Angular, MongoDB, SpringBoot, GIT.
+**Java, Python, SQL, Angular, MongoDB, SpringBoot, GIT.**
 
 ## Tools
-IntelliJ, VScode, GitHub, MySQL, Postman, Docker.
+**IntelliJ, VScode, GitHub, MySQL, Postman, Docker.**
 
 ## Education			        		
 - B.E., Computer Science | Chandigarh University (2016-2020)
 - XII, CBSE | KMPS (2015)
 
 ## Certifications
-- Software Engineer | NIIT (2023-2024)
+- Software Engineer - NIIT (2023-2024)
   - [Certificate](/assets/NIIT_Certificate.jpg)
-- Java | HackerRank (Apr 2024)
+- Java - HackerRank (Apr 2024)
   - [Certificate](https://www.hackerrank.com/certificates/6eaea94f9db0)
-- Problem Solving | HackerRank (Apr 2024)
+- Problem Solving - HackerRank (Apr 2024)
   - [Certificate](https://www.hackerrank.com/certificates/4a74c64a5447)
 
 ## Projects
