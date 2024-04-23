@@ -1,5 +1,21 @@
 title: Shrivats Mishra
 logo: /assets/IMG_2374.png
-#description: text below image
-# show_downloads: true
+description: "Software Engineer | Fullstack Developer | Data Analyst"
+email: shrivatsam43@gmail.com
+url: https://shrivatsam13.github.io/portfolio/
+github_username: shrivatsam13
+linkedin_username: Shrivats Mishra
+show_downloads: true
 theme: jekyll-theme-minimal
+
+# Customize navigation links
+navigation_links:
+  - title: Home
+    url: /
+
+# Social links
+social_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/shrivats-mishra/
+  - title: GitHub
+    url: https://github.com/shrivatsam13
