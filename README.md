@@ -14,6 +14,13 @@ Passionate software engineer eagerly looking for opportunities to apply my skill
 | XII, CBSE              | KMPS                  | 2015      |
 
 
+| Education                          | Institution           | Years     |
+|------------------------------------|-----------------------|-----------|
+| B.E., Computer Science             | Chandigarh University | 2016-2020 |
+| XII, CBSE                          | KMPS                  | 2015      |
+
+
+
 | Education                          | Years     |
 |------------------------------------|-----------|
 | B.E., Computer Science             | 2016-2020 |
