@@ -20,11 +20,11 @@ Passionate software engineer eagerly looking for opportunities to apply my skill
   - [Certificate](https://www.hackerrank.com/certificates/4a74c64a5447)
 
 ## Projects
-### ToDOTracker @ NIIT
+### ToDoTracker @ NIIT - [GitHub link](https://github.com/shrivatsam13/TODO_Tracker_Frontend)
 - **Technologies:** Java, MySQL, MongoDB, HTML/CSS, TypeScript, Angular, SpringBoot, Microservices.
 - **Description:** Developed a full stack web application that helps users to keep track of their tasks, with various options like saving, modifying, deleting, and archiving tasks.
 
-### BakeMyCake @ NIIT
+### BakeMyCake @ NIIT - [GitHub link](https://github.com/shrivatsam13/bakemycake-project)
 - **Technologies:** HTML, CSS, TypeScript.
 - **Description:** A frontend project which included a complete frontend web page for a cake bakery where customers can choose from a variety of choices.
 
