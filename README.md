@@ -1,4 +1,5 @@
 # Software Engineer
+Passionate software engineer eagerly looking for opportunities to apply my skills in a dynamic team environment and make a meaningful impact while contributing to innovative projects.
 
 ## Technical Skills
 Java, Python, SQL, Angular, MongoDB, SpringBoot, GIT.
@@ -11,7 +12,8 @@ IntelliJ, VScode, GitHub, MySQL, Postman, Docker.
 - XII, CBSE | KMPS (2015)
 
 ## Certifications
-- Software Engineer, Specializing in Fullstack Development | NIIT (2023-2024)
+- Software Engineer | NIIT (2023-2024)
+  - [Certificate](/assets/NIIT_Certificate.jpg)
 - Java | HackerRank (Apr 2024)
   - [Certificate](https://www.hackerrank.com/certificates/6eaea94f9db0)
 - Problem Solving | HackerRank (Apr 2024)
@@ -28,3 +30,4 @@ IntelliJ, VScode, GitHub, MySQL, Postman, Docker.
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/shrivats-mishra/)
+- [GitHub](https://github.com/shrivatsam13)
