@@ -13,6 +13,16 @@ Passionate software engineer eagerly looking for opportunities to apply my skill
 | B.E., Computer Science | Chandigarh University | 2016-2020 |
 | XII, CBSE              | KMPS                  | 2015      |
 
+
+| Education                          | Years     |
+|------------------------------------|-----------|
+| B.E., Computer Science             | 2016-2020 |
+| Chandigarh University              |           |
+| XII, CBSE                          | 2015      |
+| KMPS                               |           |
+
+
+
 ## Certifications
 - Software Engineer - NIIT (2023-2024)
   - [Certificate](/assets/NIIT_Certificate.jpg)
