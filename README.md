@@ -7,28 +7,11 @@ Passionate software engineer eagerly looking for opportunities to apply my skill
 ## Tools
 **IntelliJ, VScode, GitHub, MySQL, Postman, Docker.**
 
-## Education			        		
-| Course                 | Institution           | Years     |
-|------------------------|-----------------------|-----------|
-| B.E., Computer Science | Chandigarh University | 2016-2020 |
-| XII, CBSE              | KMPS                  | 2015      |
-
-
+## Education
 | Education                          | Institution           | Years     |
 |------------------------------------|-----------------------|-----------|
 | B.E., Computer Science             | Chandigarh University | 2016-2020 |
 | XII, CBSE                          | KMPS                  | 2015      |
-
-
-
-| Education                          | Years     |
-|------------------------------------|-----------|
-| B.E., Computer Science             | 2016-2020 |
-| Chandigarh University              |           |
-| XII, CBSE                          | 2015      |
-| KMPS                               |           |
-
-
 
 ## Certifications
 - Software Engineer - NIIT (2023-2024)
