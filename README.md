@@ -8,6 +8,7 @@ Passionate software engineer eagerly looking for opportunities to apply my skill
 **IntelliJ, VScode, GitHub, MySQL, Postman, Docker.**
 
 ## Education
+
 | Education                          | Institution           | Years     |
 |------------------------------------|-----------------------|-----------|
 | B.E., Computer Science             | Chandigarh University | 2016-2020 |
