@@ -1,8 +1,8 @@
-# Software Engineer
-Passionate software engineer eagerly looking for opportunities to apply my skills in a dynamic team environment and make a meaningful impact while contributing to innovative projects.
+# Analyst
+MBA lad with proficiency in Finance & HR with background in Fullstack development eagerly looking for opportunities to apply my skills in a dynamic team environment and make a meaningful impact while contributing to innovative projects.
 
 ## Technical Skills
-**Java, Python, SQL, Angular, MongoDB, SpringBoot, GIT.**
+**Excel, Powerpoint, Java, Python, SQL, Angular, MongoDB, SpringBoot, GIT.**
 
 ## Tools
 **IntelliJ, VScode, GitHub, MySQL, Postman, Docker.**
@@ -11,6 +11,7 @@ Passionate software engineer eagerly looking for opportunities to apply my skill
 
 | Education                          | Institution           | Years     |
 |------------------------------------|-----------------------|-----------|
+| MBA, Finance & HR                  | Chandigarh University | 2024-2026 |
 | B.E., Computer Science             | Chandigarh University | 2016-2020 |
 | XII, CBSE                          | KMPS                  | 2015      |
 
